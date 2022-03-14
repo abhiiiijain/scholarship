@@ -5,18 +5,28 @@
 }
 .bgimg{
     background: rgb(207, 238, 94);
-    padding: 5% 0;
+    padding: 3% 0 3% 2%;
     display: flex;
     width: 100%;
-    justify-content: center;
     flex-wrap: nowrap;
 
 }
 div img{
-    width: 75%;
+    width: 77%;
 }
 
 .footer{
     background-color: black;
-    height: ;
+    padding: 4% 6% 6% 6%;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-end;
+}
+.btn{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.3rem;
+    padding: 1% 4%;
+    border-radius: 10px;
+    
+
 }
