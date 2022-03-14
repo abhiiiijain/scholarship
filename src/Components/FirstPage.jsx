@@ -8,7 +8,7 @@ const FirstPage=()=>{
             <img src={image} alt='' />
         </div>
         <div className="footer">
-            <button>Enter Site!</button>
+            <button className="btn" type="submit">Enter Site!</button>
         </div>
     </React.Fragment>
 };

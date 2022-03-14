@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-div.bgimg{
+.bgimg{
     background: rgb(207, 238, 94);
     padding: 5% 0;
     display: flex;
@@ -16,6 +16,7 @@ div img{
     width: 75%;
 }
 
-div{
+.footer{
     background-color: black;
+    height: ;
 }
